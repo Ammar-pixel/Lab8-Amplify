@@ -1,0 +1,16 @@
+{
+	"auth": {
+		"amplifynew968f4ac8": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	},
+	"analytics": {
+		"amplifynew": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
